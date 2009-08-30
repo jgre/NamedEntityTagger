@@ -1,0 +1,5 @@
+Jar-files of the following libraries are needed:
+
+* OpenNLP Tools: http://sourceforge.net/projects/opennlp/files/
+* OpenNLP Maxent: http://sourceforge.net/projects/maxent/files/
+* GNU Trove: http://opennlp.sourceforge.net/models/english/sentdetect/EnglishSD.bin.gz

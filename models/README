@@ -1,0 +1,7 @@
+In this directory, you need to place the following model data files:
+
+* Sentence Detection: http://opennlp.sourceforge.net/models/english/sentdetect/EnglishSD.bin.gz
+* Dates: http://opennlp.sourceforge.net/models/english/namefind/date.bin.gz
+* Locations: http://opennlp.sourceforge.net/models/english/namefind/location.bin.gz
+* Oranizations: http://opennlp.sourceforge.net/models/english/namefind/organization.bin.gz
+* Persons: http://opennlp.sourceforge.net/models/english/namefind/person.bin.gz
